@@ -2,32 +2,38 @@
     {
         "id": "01",
         "name": "HTML",
-        "img": "https://cdn-icons-png.flaticon.com/512/919/919827.png"
+        "img": "https://cdn-icons-png.flaticon.com/512/919/919827.png",
+        "title": "Easy way to learn HTML"
     },
     {
         "id": "02",
         "name": "CSS",
-        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+        "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+        "title": "CSS is fun!! Learn CSS with us"
         
     },
     {
         "id": "03",
         "name": "JavaScript",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "title": "The easyest way to learn JavaScript"
     },
     {
         "id": "04",
         "name": "React JS",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        "title": "Learn React JS with us"
     },
     {
         "id": "05",
         "name": "PHP",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+        "title": "PHP is !dead"
     },
     {
         "id": "06",
         "name": "Laravel",
-        "img": "https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg"
+        "img": "https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg",
+        "title": "Learn Laravel with our experienced team"
     }
 ]
